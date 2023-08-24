@@ -1,2 +1,1 @@
-# eaglercraft-15
-eaglercraft-15
+Since the offical repo for eaglercraft has been deleted, I have a copy of it at https://3kh0.co if you need it for anything! Thank you LAX1DUDE for this amazing game!
